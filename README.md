@@ -1,2 +1,3 @@
 # hello-world
-This is my second repository.
+Learning how to use repositories.
+I am studyng at the university of Los Andes.
